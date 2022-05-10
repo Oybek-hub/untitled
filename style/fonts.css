@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "700";
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "800";
+    src: url(../fonts/Poppins-ExtraBold.ttf);
+}
+@font-face {
+    font-family: "400";
+    src: url(../fonts/Poppins-Regular.ttf);
+}
